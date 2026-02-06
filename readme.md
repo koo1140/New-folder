@@ -1,20 +1,24 @@
-AI Agent
-You will need a free Mistral API key https://console.mistral.ai/
-You will need Python.
-Install dependencies
-pip install mistralai colorama requests
 
+### AI Agent  
+You will need a free Mistral API key https://console.mistral.ai/  
+You will need Python.  
+
+### Install dependencies  
+```bash
+pip install mistralai colorama requests
+```
 Clone the project
 In terminal:
-git clone https://github.com/koo1140/New-folder
+```
+git clone [https://github.com/koo1140/New-folder](https://github.com/koo1140/New-folder)
 cd New-folder
-
+```
 Set API key
 🐧 Linux / macOS:
-export MISTRAL_API_KEY="your_key_here"
+`export MISTRAL_API_KEY="your_key_here"`
 
 🪟 Windows (PowerShell):
-setx MISTRAL_API_KEY "your_key_here"
+`setx MISTRAL_API_KEY "your_key_here"`
 
 You will need to restart the terminal
 Run the agent
