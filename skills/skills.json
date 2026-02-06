@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "name": "weather",
+      "file": "weather.md",
+      "description": "Fetches current weather data for a given location using web search tools. Teaches how to use the `web_search` tool to get weather updates."
+    },
+    {
+      "name": "time",
+      "file": "time.md",
+      "description": "Fetches current time data for major cities using shell commands or web search. Teaches how to use the `execute_shell` tool for time-related tasks."
+    }
+  ]
+}
