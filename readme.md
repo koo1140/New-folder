@@ -1,4 +1,7 @@
-
+# This is outdated.
+# Go to the new repo
+# https://github.com/koo1140/AI-Agent
+---
 ### AI Agent  
 You will need a free Mistral API key https://console.mistral.ai/  
 You will need Python.  
